@@ -1,5 +1,8 @@
 streamlit
-plotly
 pandas
-streamlit-gsheets
+plotly
 openai
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
